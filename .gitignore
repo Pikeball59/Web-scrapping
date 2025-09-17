@@ -40,9 +40,8 @@ ENV/
 ehthumbs.db
 Thumbs.db
 
-# Logs (исключаем логи, но можно раскомментировать если нужно игнорировать)
-# *.log
-# !habr_parser.log  # если хотим исключить все логи кроме нашего
+# Logs
+*.log
 
 # Temporary files
 *.tmp
